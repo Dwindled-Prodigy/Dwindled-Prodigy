@@ -27,4 +27,6 @@ GitHub is boring if you want to stalk me 'cause I keep all my super cool project
 <a href="http://www.github.com/Dwindled-Prodigy"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Dwindled-Prodigy&bg_color=0f172a&color=64748b&line=ffffff&point=64748b&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/Dwindled-Prodigy" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dwindled-Prodigy&langs_count=10&title_color=6366f1&text_color=64748b&icon_color=ffffff&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<b>
 [![](https://visitcount.itsvg.in/api?id=Merciless-GOD&icon=5&color=11)](https://visitcount.itsvg.in)
+</b>
