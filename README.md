@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Dwindled_Prodigy) 
+[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Dwildled_Prodigy) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Dwindled-Prodigy&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Dwindled-Prodigy&theme=vision-friendly-dark&hide_border=false)<br/>
