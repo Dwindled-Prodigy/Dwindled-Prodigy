@@ -1,11 +1,28 @@
-# 💫 About Me:
-🌍  I'm based in Earth (optional)<br>🧠  I'm learning Computer Engineering <br>       (I won't be mention my year 'cause I don't know when next I'll be active again)<br>⚡  I'm nothing you should waste your time on, unless it's something about anime.<br>
+<p align="left">Hello, I have no clue when i'm coming back here</p>
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Dwindled-Prodigy&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Dwindled-Prodigy&theme=vision-friendly-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dwindled-Prodigy&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+###
 
----
-[![](https://visitcount.itsvg.in/api?id=Dwindled-Prodigy&icon=0&color=2)](https://visitcount.itsvg.in)
+<div align="center">
+  <img height="200" src="https://media1.tenor.com/m/yXx0iZCQPocAAAAd/animation-inabakumori.gif"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+</div>
+
+###
+
+
+
+###
